@@ -83,18 +83,24 @@ The project explores:
 * Purchase frequency
 * Customer segmentation by age group
 
-### Data Visualization
+## Data Visualization
 
-Matplotlib and Seaborn were used to visualize customer behaviour and identify patterns in the dataset.
+The project includes visualizations to explore customer purchasing behaviour:
 
-The analysis includes visualizations such as:
+### Revenue by Category
+![Revenue by Category](images/revenue_by_category.png)
 
-* Age distribution
-* Revenue comparison
-* Category-wise analysis
-* Subscription analysis
-* Purchase frequency analysis
-* Customer segment comparisons
+### Discounted vs Non-Discounted Purchases by Category
+![Discounted vs Non-Discounted Purchases by Category](images/discounted_vs_non_discounted_by_category.png)
+
+### High-Rated Purchases by Category and Subscription Status
+![High-Rated Purchases by Category and Subscription Status](images/high_rated_purchases_by_category_subscription.png)
+
+### Revenue from Repeat Customers by Category
+![Revenue from Repeat Customers by Category](images/repeat_customer_revenue_by_category.png)
+
+### Correlation Between Customer Behaviour Variables
+![Correlation Between Customer Behaviour Variables](images/customer_behaviour_correlation.png)
 
 ## SQL Analysis
 
